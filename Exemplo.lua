@@ -1,6 +1,6 @@
 
 local Rayfield = loadstring(game:HttpGet(
-    "https://raw.githubusercontent.com/gomesdev007/Ui-libary-/refs/heads/main/Rayfield_Gen3_Compact.lua"
+    "https://raw.githubusercontent.com/gomesdev007/Ui-libary-/refs/heads/main/Rayfind%20modded%20by%20gomes.wzz"
 ))()
 
 local Window = Rayfield:CreateWindow({
